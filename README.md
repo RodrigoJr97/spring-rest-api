@@ -3,7 +3,7 @@
 Projeto desenvolvido no módulo Spring Boot REST API com JavaScript e Bootstrap.
 
 ## Objetivo
-Criar uma API com os métodos básicos(CRUD) e desenvolver uma tela para iteração com usuário
+Criar uma API com os métodos básicos(CRUD) e desenvolver uma tela para interação com usuário
 
 Stack utilizada
 * Java 11
